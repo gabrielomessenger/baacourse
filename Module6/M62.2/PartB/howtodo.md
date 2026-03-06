@@ -1,16 +1,16 @@
-# Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)
+# Module 6 - Project Task 2.2 - Managing Technical and Legal Reports (Part B)
 
 This guide is tailored to the files in this folder so you can complete the assignment using only local resources.
 
 ## Folder resources to use
-- `M6_Cover_Assessment 2.1 Part A_V1.1.docx`
-- `Minor Works Contract.docx`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A).pdf`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)_SD_DOWNLOAD.mp4`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)__en-x-autogen.srt`
-- `Subcontractor labour requirements chart.docx`
-- `Subcontractor management plan.docx`
-- `Well street Drawings and specifications.pdf`
+- `Costs of Construction Template.xlsx`
+- `Lot 31 3 Oskar_Court_Specifications_v1.1.pdf`
+- `M6_Cover_Assessment 2.2 Part B_V1.1.docx`
+- `Module 6 - Project Task 2.2 - Managing Technical and Legal Reports (Part B).pdf`
+- `Module 6 - Project Task 2.2 - Managing Technical and Legal Reports (Part B)_SD_DOWNLOAD.mp4`
+- `Module 6 - Project Task 2.2 - Managing Technical and Legal Reports (Part B)__en-x-autogen.srt`
+- `Oskar_Court_Construction_Plan_v1.1.pdf`
+- `Oskar_Court_Engineering.pdf`
 - `howtodo.md`
 
 

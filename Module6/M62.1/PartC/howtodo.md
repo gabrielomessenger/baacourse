@@ -1,15 +1,14 @@
-# Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)
+# Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part C)
 
 This guide is tailored to the files in this folder so you can complete the assignment using only local resources.
 
 ## Folder resources to use
-- `M6_Cover_Assessment 2.1 Part A_V1.1.docx`
+- `BAA SubContractor Agreement.pdf`
+- `M6_Cover_Assessment 2.1 Part C_V1.1.docx`
 - `Minor Works Contract.docx`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A).pdf`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)_SD_DOWNLOAD.mp4`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)__en-x-autogen.srt`
-- `Subcontractor labour requirements chart.docx`
-- `Subcontractor management plan.docx`
+- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part C).pdf`
+- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part C)_SD_DOWNLOAD.mp4`
+- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part C)__en-x-autogen.srt`
 - `Well street Drawings and specifications.pdf`
 - `howtodo.md`
 

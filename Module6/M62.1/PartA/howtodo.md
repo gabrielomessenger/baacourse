@@ -1,33 +1,178 @@
-# Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)
+# Codex Task Instructions – M6.2.1 Part A
 
-This guide is tailored to the files in this folder so you can complete the assignment using only local resources.
+You are working inside this folder:
 
-## Folder resources to use
-- `M6_Cover_Assessment 2.1 Part A_V1.1.docx`
-- `Minor Works Contract.docx`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A).pdf`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)_SD_DOWNLOAD.mp4`
-- `Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A)__en-x-autogen.srt`
-- `Subcontractor labour requirements chart.docx`
-- `Subcontractor management plan.docx`
-- `Well street Drawings and specifications.pdf`
-- `howtodo.md`
+Module6/M6.2.1/PartA
 
+Your job is to complete the assignment using the provided documents and place the finished outputs inside the `submit` folder.
 
-## Required submission workflow
-1. Open the assessment brief PDF and confirm exact deliverables.
-2. Complete all editable templates from `submit/`.
-3. Use supporting references (plans/contracts/reports/video+SRT) to justify your answers.
-4. Save final versions only in `submit/`.
+IMPORTANT RULES
 
-## Quality checklist before upload
-- Names in your completed files match the required deliverables.
-- Responses reference folder evidence (contract clauses, plan/report details, site observations).
-- Numbers/timings are consistent across chart, plan, and cover sheet answers.
-- Final files in `submit/` are the versions you will upload.
+1. NEVER modify the original template files in the root folder.
+2. ALWAYS work only on copies inside the `submit` folder.
+3. NEVER modify these reference files:
+   - Minor Works Contract.docx
+   - Well street Drawings and specifications.pdf
+   - Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A).pdf
+   - .srt or .mp4 files
+4. Only the following files should be edited:
+   - Subcontractor labour requirements chart.docx
+   - Subcontractor management plan.docx
+   - M6_Cover_Assessment 2.1 Part A_V1.1.docx
 
-## `submit/` should contain
-- `completed_assignment_draft.md`
-- `review.md`
+------------------------------------------------
 
-> Binary assessment templates/support files have been removed from `submit/` to keep PRs lightweight. Use the source files in the parent task folder when you prepare final submissions locally.
+STEP 1 – PREPARE SUBMISSION WORKSPACE
+
+If the `submit` folder does not contain the templates:
+
+Copy these files into `submit`:
+
+- Subcontractor labour requirements chart.docx
+- Subcontractor management plan.docx
+- M6_Cover_Assessment 2.1 Part A_V1.1.docx
+
+Do NOT rename them.
+
+------------------------------------------------
+
+STEP 2 – UNDERSTAND THE ASSIGNMENT
+
+Read:
+
+- Module 6 - Project Task 2.1 - Managing Subcontractor Requirements (Part A).pdf
+- Well street Drawings and specifications.pdf
+- Minor Works Contract.docx
+
+Determine:
+
+• what the project is  
+• what subcontractors are required  
+• what work stages exist in the project  
+
+------------------------------------------------
+
+STEP 3 – CREATE CONSTRUCTION SEQUENCE
+
+Identify a logical construction sequence for the Well Street WC upgrade.
+
+Example stages may include:
+
+1 Site preparation / demolition  
+2 Excavation  
+3 Footings and slab construction  
+4 Structural framing  
+5 Roofing  
+6 Plumbing rough-in  
+7 Electrical rough-in  
+8 Wall linings and internal construction  
+9 Waterproofing  
+10 Tiling  
+11 Painting  
+12 Fixtures and fittings  
+13 Final inspection
+
+Use this sequence to determine subcontractor labour requirements.
+
+------------------------------------------------
+
+STEP 4 – COMPLETE LABOUR REQUIREMENTS CHART
+
+Open:
+
+submit/Subcontractor labour requirements chart.docx
+
+Fill the table with:
+
+• subcontractor trade types
+• number of workers required per month
+• logical labour distribution based on construction stages
+
+Examples of trades:
+
+- Demolition contractor
+- Excavation contractor
+- Concreter
+- Carpenter
+- Roofer
+- Plumber
+- Electrician
+- Waterproofer
+- Tiler
+- Painter
+
+Ensure the chart reflects a realistic construction sequence.
+
+Save the document.
+
+------------------------------------------------
+
+STEP 5 – COMPLETE SUBCONTRACTOR MANAGEMENT PLAN
+
+Open:
+
+submit/Subcontractor management plan.docx
+
+Complete all sections:
+
+1 Purpose  
+Explain the objective of the subcontractor management plan.
+
+2 Contractor organisational chart  
+Create a simple hierarchy showing:
+- Head contractor
+- Site supervisor
+- Subcontractors
+
+3 Roles, rights, responsibilities and competencies  
+For each subcontractor describe:
+- their responsibilities
+- required qualifications or licenses
+- WHS obligations
+
+4 Procedure for managing subcontractors  
+Describe procedures for:
+
+- communication with contractors
+- progress reporting
+- milestone reviews
+- contract issue meetings
+- safety management
+
+Use concepts from the Minor Works Contract where relevant.
+
+------------------------------------------------
+
+STEP 6 – COMPLETE COVER SHEET
+
+Open:
+
+submit/M6_Cover_Assessment 2.1 Part A_V1.1.docx
+
+Fill the student declaration fields.
+
+Leave trainer sections blank.
+
+------------------------------------------------
+
+STEP 7 – VERIFY SUBMISSION
+
+Ensure the submit folder contains completed versions of:
+
+- Subcontractor labour requirements chart.docx
+- Subcontractor management plan.docx
+- M6_Cover_Assessment 2.1 Part A_V1.1.docx
+
+Check that:
+
+• no sections are empty  
+• tables are filled  
+• formatting is readable  
+
+Do NOT modify the original files outside the submit folder.
+
+------------------------------------------------
+
+FINAL GOAL
+
+Produce the completed assignment documents in the `submit` folder ready for submission.
